@@ -2,3 +2,35 @@ body {
   background-color: #008080;
   background: url("/ExpressHolidays/images/background.jpg") no-repeat 50% 0;
 }
+.container {
+  max-width: 1000px;
+  margin: 0 auto;
+}
+
+.left {
+  width: 200px;
+  background-color: #dadada;
+  float: left;
+}
+
+.right {
+  margin-left: 240px;
+  background-color: #dadada;
+}
+
+.navigation {
+  background-color: #dadada;
+  margin-bottom: 40px;
+}
+
+.content {
+  background-color: #dadada;
+}
+
+.logo {
+  margin-bottom: 40px;
+}
+
+.sidebar {
+  background-color: #dadada;
+}
