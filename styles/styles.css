@@ -14,13 +14,12 @@ body {
 
 .right {
   margin-left: 240px;
-
+  background-color: #dadada;
 }
 
 .navigation {
   background-color: #dadada;
   margin-bottom: 40px;
-  font-size: 18px;
 }
 
 .content {
@@ -28,7 +27,6 @@ body {
 }
 
 .logo {
-  width: 100px;
   margin-bottom: 40px;
 }
 
