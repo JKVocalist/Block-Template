@@ -20,6 +20,7 @@ body {
 .navigation {
   background-color: #dadada;
   margin-bottom: 40px;
+  font-size: 18px;
 }
 
 .content {
@@ -27,8 +28,8 @@ body {
 }
 
 .logo {
-  margin-bottom: 40px;
   width: 200px;
+  margin-bottom: 40px;
 }
 
 .sidebar {
