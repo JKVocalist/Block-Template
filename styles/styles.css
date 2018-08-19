@@ -9,11 +9,18 @@ body {
 .left {
   width: 100px;
   float: left;
+  margin-bottom: 40px;
 }
 
 .right {
   margin-left: 240px;
   background-color: #dadada;
+  margin-bottom: 40px;
+}
+
+.footer {
+    background-color: dadada
+    clear: left;
 }
 
 .navigation {
@@ -42,6 +49,7 @@ body {
   background: #dadada url("/ExpressHolidays/images/express/grandcanyon/gc1.jpg") no-repeat 50% 0;
   background-size: cover;
 }
+
 
 .navigation a {
   color: #fff;
