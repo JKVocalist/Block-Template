@@ -1,6 +1,5 @@
 body {
-  background-color: #000000;
-  /* background: #000 url("/ExpressHolidays/images/background.jpg") no-repeat 50% 0; */
+  background: #000 url("/ExpressHolidays/images/background.jpg") no-repeat 50% 0; 
 }
 .container {
   max-width: 1000px;
