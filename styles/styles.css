@@ -1,5 +1,5 @@
 body {
-  background: #000 url("/ExpressHolidays/images/background.jpg") no-repeat 50% 0; 
+  background: #000 url("/ExpressHolidays/images/background.jpg") no-repeat 50% 0;
 }
 .container {
   max-width: 1000px;
@@ -17,7 +17,7 @@ body {
 }
 
 .navigation {
-  background-color: #dadada;
+  background: #dadada url("/ExpressHolidays/images/express/barharbor/bh1.jpg") no-repeat 50% 0;
   margin-bottom: 40px;
   padding: 60px;
   font-size: 20px;
