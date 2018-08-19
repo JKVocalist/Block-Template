@@ -17,10 +17,33 @@ body {
 }
 
 .navigation {
-  background: #dadada url("/ExpressHolidays/images/express/barharbor/bh1.jpg") no-repeat 50% 0;
   margin-bottom: 40px;
   padding: 60px;
   font-size: 20px;
+}
+
+.navigation-default {
+  background: #dadada url("/ExpressHolidays/images/express/barharbor/bh1.jpg") no-repeat 50% 0;
+  background-size: cover;
+}
+
+.navigation-barharbor {
+  background: #dadada url("/ExpressHolidays/images/express/barharbor/bh1.jpg") no-repeat 50% 0;
+  background-size: cover;
+}
+
+.navigation-canada {
+  background: #dadada url("/ExpressHolidays/images/express/canada/cr1.jpg") no-repeat 50% 0;
+  background-size: cover;
+}
+
+.navigation-grandcanyon {
+  background: #dadada url("/ExpressHolidays/images/express/grandcanyon/gc1.jpg") no-repeat 50% 0;
+  background-size: cover;
+}
+
+.navigation a {
+  color: #fff;
 }
 
 .content {
