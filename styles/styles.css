@@ -57,6 +57,11 @@ body {
 
 .content {
   background-color: #dadada;
+  padding: 30px;
+}
+
+.content iframe {
+  display: block;
 }
 
 .logo {
