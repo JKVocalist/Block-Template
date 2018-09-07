@@ -30,7 +30,7 @@ body {
 }
 
 .navigation-default {
-  background: #dadada url("/ExpressHolidays/images/banner3.jpg") no-repeat 50% 40%;
+  background: #dadada url("/ExpressHolidays/images/banner3.jpg") no-repeat 50% 0%;
   background-size: cover;
 }
 
