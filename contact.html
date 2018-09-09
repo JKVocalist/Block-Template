@@ -39,7 +39,7 @@
   <p>When submitting this form, it will direct you to our prefered payment associate;PayPal:</p>
 
   <form method='post'>
-    NAME: <input type='text' name='name' id='name' /><br />
+    Name: <input type='text' name='name' id='name' /><br />
 
     Email: <input type='text' name='email' id='email' /><br />
 
@@ -62,16 +62,17 @@
 
   <form action="https://www.paypal.com" target="_blank">
     First name:<br>
-    <input type="text" name="firstname" value="Dr.Kim">
+    <input type="text" name="firstname" value=autocomplete=">
     <br>
     Last name:<br>
-    <input type="text" name="lastname" value="Nixon">
+    <input type="text" name="lastname" value="">
     <br>
     Email:<br>
-    <input type="text" name="email address" value="webdesign@southuniversity.edu">
+    <input type="text" name="email address" value="">
     <br>
-    Comments: <br>
-    <input type="text" name="comments" value="Ex: Please thank Dr. Nixon!">
+    Comment:<br />
+    <textarea name='comment' id='comment'></textarea><br/>
+    <input type='hidden' name='articleid' id='articleid' value='<? echo $_GET["id"]; ?>' />
     <br><br>
     <input type="submit" value="Submit">
 
