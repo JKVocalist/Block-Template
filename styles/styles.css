@@ -20,6 +20,7 @@ body {
 .footer {
     background-color: #dadada;
     clear: left;
+    display: block;
 }
 
 .navigation {
